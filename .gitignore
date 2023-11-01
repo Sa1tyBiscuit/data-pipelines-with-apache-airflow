@@ -153,3 +153,10 @@ logs
 
 # Data
 data
+
+
+# personal note
+personal_note.txt
+
+#virtual environment dependencies
+airflow_env/*
